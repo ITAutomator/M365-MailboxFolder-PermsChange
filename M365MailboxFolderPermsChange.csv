@@ -1,0 +1,3 @@
+IdentityFrom,IdentityTo,Folder,Permission,ApplyEvenIfDelegate
+johnsmith@contoso.com,DEFAULT,Calendar,Reviewer,FALSE
+valeriejones@contoso.com,DEFAULT,Calendar,Reviewer,FALSE
